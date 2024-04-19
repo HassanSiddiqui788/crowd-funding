@@ -1,0 +1,360 @@
+@font-face {
+    font-family: 'Pulp Display Extra';
+    src: url('PulpDisplay-ExtraLight.eot');
+    src: url('PulpDisplay-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('PulpDisplay-ExtraLight.woff2') format('woff2'),
+        url('PulpDisplay-ExtraLight.woff') format('woff'),
+        url('PulpDisplay-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pulp Display';
+    src: url('PulpDisplay-Light.eot');
+    src: url('PulpDisplay-Light.eot?#iefix') format('embedded-opentype'),
+        url('PulpDisplay-Light.woff2') format('woff2'),
+        url('PulpDisplay-Light.woff') format('woff'),
+        url('PulpDisplay-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pulp Display';
+    src: url('PulpDisplay-Light_1.eot');
+    src: url('PulpDisplay-Light_1.eot?#iefix') format('embedded-opentype'),
+        url('PulpDisplay-Light_1.woff2') format('woff2'),
+        url('PulpDisplay-Light_1.woff') format('woff'),
+        url('PulpDisplay-Light_1.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pulp Display Extra';
+    src: url('PulpDisplay-ExtraLightItalic.eot');
+    src: url('PulpDisplay-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+        url('PulpDisplay-ExtraLightItalic.woff2') format('woff2'),
+        url('PulpDisplay-ExtraLightItalic.woff') format('woff'),
+        url('PulpDisplay-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pulp Display Extra';
+    src: url('PulpDisplay-ExtraLight_1.eot');
+    src: url('PulpDisplay-ExtraLight_1.eot?#iefix') format('embedded-opentype'),
+        url('PulpDisplay-ExtraLight_1.woff2') format('woff2'),
+        url('PulpDisplay-ExtraLight_1.woff') format('woff'),
+        url('PulpDisplay-ExtraLight_1.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pulp Display Extra';
+    src: url('PulpDisplay-ExtraBoldItalic.eot');
+    src: url('PulpDisplay-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('PulpDisplay-ExtraBoldItalic.woff2') format('woff2'),
+        url('PulpDisplay-ExtraBoldItalic.woff') format('woff'),
+        url('PulpDisplay-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pulp Display Extra';
+    src: url('PulpDisplay-ExtraLightItalic_1.eot');
+    src: url('PulpDisplay-ExtraLightItalic_1.eot?#iefix') format('embedded-opentype'),
+        url('PulpDisplay-ExtraLightItalic_1.woff2') format('woff2'),
+        url('PulpDisplay-ExtraLightItalic_1.woff') format('woff'),
+        url('PulpDisplay-ExtraLightItalic_1.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pulp Display';
+    src: url('PulpDisplay-Light_2.eot');
+    src: url('PulpDisplay-Light_2.eot?#iefix') format('embedded-opentype'),
+        url('PulpDisplay-Light_2.woff2') format('woff2'),
+        url('PulpDisplay-Light_2.woff') format('woff'),
+        url('PulpDisplay-Light_2.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pulp Display Extra';
+    src: url('PulpDisplay-ExtraBoldItalic_1.eot');
+    src: url('PulpDisplay-ExtraBoldItalic_1.eot?#iefix') format('embedded-opentype'),
+        url('PulpDisplay-ExtraBoldItalic_1.woff2') format('woff2'),
+        url('PulpDisplay-ExtraBoldItalic_1.woff') format('woff'),
+        url('PulpDisplay-ExtraBoldItalic_1.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pulp Display Extra';
+    src: url('PulpDisplay-ExtraBold.eot');
+    src: url('PulpDisplay-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('PulpDisplay-ExtraBold.woff2') format('woff2'),
+        url('PulpDisplay-ExtraBold.woff') format('woff'),
+        url('PulpDisplay-ExtraBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pulp Display Extra';
+    src: url('PulpDisplay-ExtraBold_1.eot');
+    src: url('PulpDisplay-ExtraBold_1.eot?#iefix') format('embedded-opentype'),
+        url('PulpDisplay-ExtraBold_1.woff2') format('woff2'),
+        url('PulpDisplay-ExtraBold_1.woff') format('woff'),
+        url('PulpDisplay-ExtraBold_1.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pulp Display Extra';
+    src: url('PulpDisplay-ExtraLight_2.eot');
+    src: url('PulpDisplay-ExtraLight_2.eot?#iefix') format('embedded-opentype'),
+        url('PulpDisplay-ExtraLight_2.woff2') format('woff2'),
+        url('PulpDisplay-ExtraLight_2.woff') format('woff'),
+        url('PulpDisplay-ExtraLight_2.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pulp Display Extra';
+    src: url('PulpDisplay-ExtraLightItalic_2.eot');
+    src: url('PulpDisplay-ExtraLightItalic_2.eot?#iefix') format('embedded-opentype'),
+        url('PulpDisplay-ExtraLightItalic_2.woff2') format('woff2'),
+        url('PulpDisplay-ExtraLightItalic_2.woff') format('woff'),
+        url('PulpDisplay-ExtraLightItalic_2.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pulp Display';
+    src: url('PulpDisplay-LightItalic.eot');
+    src: url('PulpDisplay-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('PulpDisplay-LightItalic.woff2') format('woff2'),
+        url('PulpDisplay-LightItalic.woff') format('woff'),
+        url('PulpDisplay-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pulp Display';
+    src: url('PulpDisplay-LightItalic_1.eot');
+    src: url('PulpDisplay-LightItalic_1.eot?#iefix') format('embedded-opentype'),
+        url('PulpDisplay-LightItalic_1.woff2') format('woff2'),
+        url('PulpDisplay-LightItalic_1.woff') format('woff'),
+        url('PulpDisplay-LightItalic_1.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pulp Display';
+    src: url('PulpDisplay-BoldItalic.eot');
+    src: url('PulpDisplay-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('PulpDisplay-BoldItalic.woff2') format('woff2'),
+        url('PulpDisplay-BoldItalic.woff') format('woff'),
+        url('PulpDisplay-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pulp Display Extra';
+    src: url('PulpDisplay-ExtraBoldItalic_2.eot');
+    src: url('PulpDisplay-ExtraBoldItalic_2.eot?#iefix') format('embedded-opentype'),
+        url('PulpDisplay-ExtraBoldItalic_2.woff2') format('woff2'),
+        url('PulpDisplay-ExtraBoldItalic_2.woff') format('woff'),
+        url('PulpDisplay-ExtraBoldItalic_2.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pulp Display Extra';
+    src: url('PulpDisplay-ExtraBold_2.eot');
+    src: url('PulpDisplay-ExtraBold_2.eot?#iefix') format('embedded-opentype'),
+        url('PulpDisplay-ExtraBold_2.woff2') format('woff2'),
+        url('PulpDisplay-ExtraBold_2.woff') format('woff'),
+        url('PulpDisplay-ExtraBold_2.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pulp Display Outline';
+    src: url('PulpDisplay-Outline.eot');
+    src: url('PulpDisplay-Outline.eot?#iefix') format('embedded-opentype'),
+        url('PulpDisplay-Outline.woff2') format('woff2'),
+        url('PulpDisplay-Outline.woff') format('woff'),
+        url('PulpDisplay-Outline.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pulp Display';
+    src: url('PulpDisplay-MediumItalic.eot');
+    src: url('PulpDisplay-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('PulpDisplay-MediumItalic.woff2') format('woff2'),
+        url('PulpDisplay-MediumItalic.woff') format('woff'),
+        url('PulpDisplay-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pulp Display';
+    src: url('PulpDisplay-MediumItalic_1.eot');
+    src: url('PulpDisplay-MediumItalic_1.eot?#iefix') format('embedded-opentype'),
+        url('PulpDisplay-MediumItalic_1.woff2') format('woff2'),
+        url('PulpDisplay-MediumItalic_1.woff') format('woff'),
+        url('PulpDisplay-MediumItalic_1.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pulp Display';
+    src: url('PulpDisplay-LightItalic_2.eot');
+    src: url('PulpDisplay-LightItalic_2.eot?#iefix') format('embedded-opentype'),
+        url('PulpDisplay-LightItalic_2.woff2') format('woff2'),
+        url('PulpDisplay-LightItalic_2.woff') format('woff'),
+        url('PulpDisplay-LightItalic_2.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pulp Display';
+    src: url('PulpDisplay-Medium.eot');
+    src: url('PulpDisplay-Medium.eot?#iefix') format('embedded-opentype'),
+        url('PulpDisplay-Medium.woff2') format('woff2'),
+        url('PulpDisplay-Medium.woff') format('woff'),
+        url('PulpDisplay-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pulp Display Outline';
+    src: url('PulpDisplay-OutlineItalic.eot');
+    src: url('PulpDisplay-OutlineItalic.eot?#iefix') format('embedded-opentype'),
+        url('PulpDisplay-OutlineItalic.woff2') format('woff2'),
+        url('PulpDisplay-OutlineItalic.woff') format('woff'),
+        url('PulpDisplay-OutlineItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pulp Display Outline';
+    src: url('PulpDisplay-Outline_1.eot');
+    src: url('PulpDisplay-Outline_1.eot?#iefix') format('embedded-opentype'),
+        url('PulpDisplay-Outline_1.woff2') format('woff2'),
+        url('PulpDisplay-Outline_1.woff') format('woff'),
+        url('PulpDisplay-Outline_1.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pulp Display';
+    src: url('PulpDisplay-Medium_1.eot');
+    src: url('PulpDisplay-Medium_1.eot?#iefix') format('embedded-opentype'),
+        url('PulpDisplay-Medium_1.woff2') format('woff2'),
+        url('PulpDisplay-Medium_1.woff') format('woff'),
+        url('PulpDisplay-Medium_1.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pulp Display Outline';
+    src: url('PulpDisplay-Outline_2.eot');
+    src: url('PulpDisplay-Outline_2.eot?#iefix') format('embedded-opentype'),
+        url('PulpDisplay-Outline_2.woff2') format('woff2'),
+        url('PulpDisplay-Outline_2.woff') format('woff'),
+        url('PulpDisplay-Outline_2.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pulp Display';
+    src: url('PulpDisplay-MediumItalic_2.eot');
+    src: url('PulpDisplay-MediumItalic_2.eot?#iefix') format('embedded-opentype'),
+        url('PulpDisplay-MediumItalic_2.woff2') format('woff2'),
+        url('PulpDisplay-MediumItalic_2.woff') format('woff'),
+        url('PulpDisplay-MediumItalic_2.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pulp Display';
+    src: url('PulpDisplay-Medium_2.eot');
+    src: url('PulpDisplay-Medium_2.eot?#iefix') format('embedded-opentype'),
+        url('PulpDisplay-Medium_2.woff2') format('woff2'),
+        url('PulpDisplay-Medium_2.woff') format('woff'),
+        url('PulpDisplay-Medium_2.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pulp Display Outline';
+    src: url('PulpDisplay-OutlineItalic_1.eot');
+    src: url('PulpDisplay-OutlineItalic_1.eot?#iefix') format('embedded-opentype'),
+        url('PulpDisplay-OutlineItalic_1.woff2') format('woff2'),
+        url('PulpDisplay-OutlineItalic_1.woff') format('woff'),
+        url('PulpDisplay-OutlineItalic_1.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
